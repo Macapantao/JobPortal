@@ -1,0 +1,19 @@
+.job-detail {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .job-detail h2, .job-detail h3 {
+    margin: 0 0 10px 0;
+  }
+  
+  .job-detail button {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
